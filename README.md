@@ -12,7 +12,8 @@
 
 <br>
 
-<p align="center">I am a statistics graduate interested in Data analyst💙. Passionate in problem solving, creative thinking, detail oriented
+<p align="center">I am a statistics graduate interested in Data analyst💙.</p>
+<p align="center">Passionate in problem solving, creative thinking, detail oriented
 and time management.</p>
 <br>
 
