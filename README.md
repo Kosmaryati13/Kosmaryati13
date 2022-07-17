@@ -28,7 +28,7 @@ and time management.</p>
 
 ## Tools:
 
-<p align="center">
+<p>
 <br />
 <img align="center" alt="R" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/640px-R_logo.svg.png?20100317150552" style="padding-right:10px;" />
 <img align="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />
