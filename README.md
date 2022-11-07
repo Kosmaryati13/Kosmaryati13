@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://github.com/Kosmaryati13/Kosmaryati13/blob/main/Gif.gif?raw=true" width="900" height="300" />
+<img align="center" alt="GIF" src="https://github.com/Kosmaryati13/Kosmaryati13/blob/main/Gif.gif?raw=true" width="1000" height="200" />
 
 <br>
 
